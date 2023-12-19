@@ -24,7 +24,7 @@ public class Codigo4 {
           }
 
         case "papel":
-          if (j2.equals("piedra")){
+          if (j2.equals("piedra")){//Cambie a equals()
             g = 1;
           }//Cerre la condición "}"
         case "tijera":
